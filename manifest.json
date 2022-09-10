@@ -1,0 +1,10 @@
+{
+  "name": "<Plugin name>",
+  "id": "<Your plugin ID>",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "editorType": [
+    "figma"
+  ],
+  "ui": "dist/index.html"
+}

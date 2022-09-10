@@ -1,0 +1,14 @@
+
+{
+  "files": ["src/plugin/code.ts"],
+  "compilerOptions": {
+    "target": "es6",
+    "lib": ["es6"],
+    "outDir": "dist",
+    "moduleResolution": "Node",
+    "typeRoots": [
+      "./node_modules/@types",
+      "./node_modules/@figma"
+    ]
+  }
+}
